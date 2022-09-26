@@ -139,7 +139,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Carte.cpp" />
     <ClCompile Include="dataStructuresD1.cpp" />
+    <ClCompile Include="Pile.cpp" />
     <ClCompile Include="Programme1.cpp" />
     <ClCompile Include="Programme2.cpp" />
     <ClCompile Include="Programme3.cpp" />
@@ -147,6 +149,8 @@
     <ClCompile Include="Programme5.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Carte.h" />
+    <ClInclude Include="Pile.h" />
     <ClInclude Include="Programme1.h" />
     <ClInclude Include="Programme2.h" />
     <ClInclude Include="Programme3.h" />
